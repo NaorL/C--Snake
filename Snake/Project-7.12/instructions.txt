@@ -1,0 +1,17 @@
+Welcome to snake game.
+In this game you need to eat numbers according to the missions.
+If you got the right number, your score will grow.
+The winner - the first player to reach 12 points.
+After there are 60 random numbers on the board, half of the numbers will be deleted.
+Bullets - each player has 5 bullets in every new mission.
+If you shoot on number, the number disappears.
+If you shoot a player, the other player will disappear for 5 turns,
+and the shooting player score will grow by 1.
+
+Both players need to share the same keyboard in order to play the game.
+The set of keys for the first player: W-up, A-left, D-right, X-down and Z for shooting.
+The set of keys for the first player: I-up, J-left, L-right, M-down and N for shooting.
+
+good luck and have fun!
+
+(Going back to main menu automatically in 15 seconds)
